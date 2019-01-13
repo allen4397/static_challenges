@@ -10,3 +10,14 @@ h1 div {
   font-size: 12px;
   text-decoration: underline;
 }
+h2 {
+  font-family: Arial, helvetica, sans-serif;
+  text-decoration: underline;
+  font-size: 10px;
+  padding: 20px;
+  color: white;
+  background-color: #333333;
+}
+img {
+  padding: 20px;
+}

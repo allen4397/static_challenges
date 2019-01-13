@@ -6,3 +6,7 @@ h1 {
   padding: 20px;
   font-weight: bold;
 }
+h1 div {
+  font-size: 12px;
+  text-decoration: underline;
+}

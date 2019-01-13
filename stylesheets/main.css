@@ -1,4 +1,8 @@
 h1 {
+  font-family: Arial, helvetica, sans-serif;
   background-color: red;
   color: white;
+  font-size: 24px;
+  padding: 20px;
+  font-weight: bold;
 }
